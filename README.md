@@ -1,11 +1,11 @@
 <h1 align="left">Hello, my name is Antonio Marcos 👋</h1>
 
+
+
+<h2 align="left">About me</h2>
 <p align="left">
   I consider myself a self-taught person, always seeking to learn new things. I believe that knowledge is an ongoing pursuit, and I don't wait for anything or anyone to acquire it. After all, those who don't seek knowledge, get left behind.
 </p>
-
-<h2 align="left">About me</h2>
-
 <h2 align="left">My Goals</h2>
 
 <p align="left">
