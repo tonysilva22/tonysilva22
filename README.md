@@ -1,21 +1,24 @@
-<h1 align="left">Hello, my name is Antonio Marcos 👋</h1>
+<h1 align="left">Olá, meu nome é Antonio Marcos 👋</h1>
 
-
-
-<h2 align="left">About me</h2>
-<p align="left">
-  I consider myself a self-taught person, always seeking to learn new things. I believe that knowledge is an ongoing pursuit, and I don't wait for anything or anyone to acquire it. After all, those who don't seek knowledge, get left behind.
-</p>
-<h2 align="left">My Goals</h2>
+<h2 align="left">Sobre mim</h2>
 
 <p align="left">
-  🚀 Explore projects that integrate different technologies and concepts.<br>
-  📚 Learn new tools and techniques to optimize development.<br>
-  🌐 Contribute to the developer community by sharing knowledge.<br>
-  💡 Seek creative and innovative solutions to the challenges that arise.<br>
+  Sou uma pessoa autodidata, sempre em busca de aprender coisas novas. Acredito que o conhecimento é uma busca constante, e não espero por nada nem por ninguém para adquiri-lo. Afinal, quem não busca conhecimento, fica para trás.
 </p>
 
-<h2 align="left">My Programming Skills</h2>
+<h2 align="left">Minhas Metas</h2>
+
+<p align="left">
+ 
+  🚀 Explorar projetos que integrem diferentes tecnologias e conceitos.<br>
+  📚 Aprender novas ferramentas e técnicas para otimizar o desenvolvimento.<br>
+  🌐 Contribuir para a comunidade de desenvolvedores compartilhando conhecimento.<br>
+  💡 Buscar soluções criativas e inovadoras para os desafios que surgirem.<br>
+
+</p>
+
+
+<h2 align="left">Minhas habilidades de programação</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python Logo"  />
