@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Minha jornada é guiada pelo desejo inabalável de aprender e evoluir constantemente.</p>
+
 
 ###
 
